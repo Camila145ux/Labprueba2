@@ -1,4 +1,4 @@
-.seccion-banner1  {
+.seccion-banner2  {
     display: flex;
     height: 100%;
     flex-direction: column;
@@ -10,7 +10,7 @@
 
 }
 
-.img-banner {
+.img-banner2 {
     width: 100%;
     max-width: 350rem;
     margin-top: 30%;   /*  para que se separe de arriba */
@@ -19,12 +19,12 @@
     border-radius: 5px;
 }
 
-.seccion-banner1 h2 {
+.seccion-banner2 h2 {
     font-size: 2.4rem;
     margin-top: 6rem;
 }
 
-.seccion-banner1 p {
+.seccion-banner2 p {
     color: gray;
     font-size: 1.6rem;
     margin-top: 2rem;
@@ -48,7 +48,7 @@
   
 
 }
-.puntos .punto1 {
+.puntos .punto2 {
     background-color: #ff7622;
 }
 
