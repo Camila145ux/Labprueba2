@@ -7,13 +7,12 @@
     padding: 0 2.5rem;
 }
 
-.img-banner {
-    width: 100%;
-    max-width: 350rem;
-    margin-top: 30%;   /*  para que se separe de arriba */
-    height: 30rem;
-    background-color: gray;
+.img4 {
+    max-width: 25rem;
     border-radius: 5px;
+    margin-top: 10%;
+    width: 240px;
+    height: 292px;
 }
 
 .seccion-banner4 h2 {
